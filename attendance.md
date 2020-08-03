@@ -14,11 +14,11 @@ Possible Channel Names:
 
 <div class='flex col'>
     <div>
-    # Example
-    ![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png)
+    <h2 id="example" class="header-level-1">Example</h2>
+    <img src='(https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png)'/>
     </div>
     <div>
-    # Commands
-    ![Commands](https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png)
+    <h2 id="example" class="header-level-1">Commands</h2>
+    <img src='(https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png)'/>
     </div>
 </div>
