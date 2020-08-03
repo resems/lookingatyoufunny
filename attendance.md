@@ -1,7 +1,4 @@
-![Logo](/img/logo.jpg)
-
-## The Discord bot for Black Desert Online.
-## The Bot you love and hate.
+{% include_relative header.md %}
 
 Attendance/NW/Event Planner.
 
