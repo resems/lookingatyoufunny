@@ -11,8 +11,8 @@ Possible Channel Names:
 
 ## Text Commands
 
-<div class='flex col left' markdown="1">
-    <div>
+<div class='flex col left' >
+    <div markdown="1">
         ### Officer Commands
 
          - `!war` - Use this to let me know when and where the next war is taking place. I'll ask you for the details!
@@ -29,7 +29,7 @@ Possible Channel Names:
          - !no @membertag @membertag - Sets not attending to tagged members.
 
         </div>
-        <div>
+        <div markdown="1">
         ### Guild Member Commands
 
          - !help - provides information to what commands are available. Note some commands are only available for specific discord roles.
