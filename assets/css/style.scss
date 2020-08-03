@@ -29,3 +29,11 @@ section#main_content {
 .left {
   text-align: left;
 }
+
+.scale {
+  transition: transform .2s;
+}
+
+.scale:hover {
+  transform: scale(2);
+}

@@ -49,6 +49,6 @@ Possible Channel Names:
     </div>
     <div>
     <h2 id="example" class="header-level-1">Commands</h2>
-    <img src='https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png'/>
+    <img class='scale' src='https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png'/>
     </div>
 </div>
