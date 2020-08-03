@@ -1,4 +1,4 @@
-![Logo](/img/logo.jpg)
+{% include_relative header.md %}
 
 ## The Discord bot for Black Desert Online.
 ## The Bot you love and hate.
