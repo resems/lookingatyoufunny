@@ -1,1 +1,10 @@
+header {
+  position: 0;
+  padding-top: 38px;
+}
+
+div.shell {
+  width: 80vw;
+}
+
 @import "{{ site.theme }}";
