@@ -1,22 +1,25 @@
-## The Lookingatyoufunny Discord bot for Black Desert Online.
-## The bot you love and hate.
+## The Discord bot for Black Desert Online.
+## The Bot you love and hate.
+
+### Setup
+
+```markdown
+- [Invite Me](https://discordapp.com/oauth2/authorize?client_id=216126789406162945&scope=bot&permissions=268446784) 
+- ![Give Me Permission](https://cdn.discordapp.com/attachments/435789412974985217/437917296044933122/unknown.png)
+- Create channel `#attendance`/`#gear`/`#payout`
+- Assign the role Guild Member to corresponding members in your discord channel.
+- Type !help in channel `#attendance`,`#gear`, `#payout`
+- Enjoy my amazingness.
+```
 
 You can use the [editor on GitHub](https://github.com/resems/lookingatyoufunny/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- Invite me : https://discordapp.com/oauth2/authorize?client_id=216126789406162945&scope=bot&permissions=268446784
 - List
 
 1. Numbered
