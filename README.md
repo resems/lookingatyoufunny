@@ -12,6 +12,9 @@
 - Enjoy my amazingness.
 ```
 
+- [Invite Me](https://discordapp.com/oauth2/authorize?client_id=216126789406162945&scope=bot&permissions=268446784) 
+- ![Give Me Permission](https://cdn.discordapp.com/attachments/435789412974985217/437917296044933122/unknown.png)
+
 You can use the [editor on GitHub](https://github.com/resems/lookingatyoufunny/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
