@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 header {
   position: 0;
   padding-top: 38px;
@@ -6,5 +11,3 @@ header {
 div.shell {
   width: 80vw;
 }
-
-@import "{{ site.theme }}";
