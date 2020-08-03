@@ -1,7 +1,10 @@
+![Logo](/img/logo.jpg)
+
 ## The Discord bot for Black Desert Online.
 ## The Bot you love and hate.
 
 Keep Track of the Guild Gear.
+
 Easy to use and simple. 
 
 ## Example
