@@ -1,8 +1,5 @@
 {% include_relative header.md %}
 
-## The Discord bot for Black Desert Online.
-## The Bot you love and hate.
-
 ### Setup
 
 - [Invite Me](https://discordapp.com/oauth2/authorize?client_id=216126789406162945&scope=bot&permissions=268446784) 
