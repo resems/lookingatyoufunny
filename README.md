@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## The Lookingatyoufunny Discord bot for Black Desert Online.
+## The bot you love and hate.
 
 You can use the [editor on GitHub](https://github.com/resems/lookingatyoufunny/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
