@@ -12,7 +12,13 @@ Possible Channel Names:
 - `#attendance-siege`
 - `#attendance-monday`
 
-# Example
-![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png)
-# Commands
-![Commands](https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png)
+<div class='flex col'>
+    <div>
+    # Example
+    ![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png)
+    </div>
+    <div>
+    # Commands
+    ![Commands](https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png)
+    </div>
+</div>
