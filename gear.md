@@ -13,18 +13,7 @@ Example of bot commands:
 
 <section class='flex col left' >
 <section markdown="1">
-### Officer Commands
 
-- `!remind` - This will send private messages reminding guild members to set their gear.
-- `!remind level:xxx` - Reminds everybody who is below the level.
-- `!remind total:xxx` - Reminds everybody who is below the total gear score.
-- `!delete` - Deletes the gear information.
-- `!delete @mention` - Deletes the mentioned member gear.
-- `!delete ID` - Deletes the member gear by id (use if the member cannot see gear channels).
-- `!roles` - Creates Role(Guild Member). You have to assign manually the role to members. FYI I need permission to create the roles (Manage Roles Permission).
-
-</section>
-<section markdown="1">
 ### Short Commands
 
 - `!ap xxx` - Updates the current AP.
@@ -41,6 +30,7 @@ Example of bot commands:
 
 </section>
 <section markdown="1">
+
 ### Commands
 
 - `!help` - provides information to what commands are available. Note some commands are only available for specific discord roles.
@@ -53,6 +43,19 @@ Example of bot commands:
 - `!list class` - This will provide a list with all members, filtered by class.
 - `!stats` - This will provide information about the guild average stats.
 - `!top ap/aap/dp/level/score/accuracy 10` - This will provide a list with top members by stat.
+
+</section>
+<section markdown="1">
+
+### Officer Commands
+
+- `!remind` - This will send private messages reminding guild members to set their gear.
+- `!remind level:xxx` - Reminds everybody who is below the level.
+- `!remind total:xxx` - Reminds everybody who is below the total gear score.
+- `!delete` - Deletes the gear information.
+- `!delete @mention` - Deletes the mentioned member gear.
+- `!delete ID` - Deletes the member gear by id (use if the member cannot see gear channels).
+- `!roles` - Creates Role(Guild Member). You have to assign manually the role to members. FYI I need permission to create the roles (Manage Roles Permission).
 
 </section>
 </section>

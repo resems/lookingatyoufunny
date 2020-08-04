@@ -13,6 +13,21 @@ Possible Channel Names:
 
 <section class='flex col left' >
 <section markdown="1">
+
+### Guild Member Commands
+
+- `!help` - provides information to what commands are available. Note some commands are only available for specific discord roles.
+- `!feedback message` - This will send the message to my masters. I also respond to this command in pm.
+- `!yes` and `!no` - use these to tell me if you're attending the next war or not, also you can leave a message if you are late, or why you cannot attend.
+- `!list` - type this and I'll tell you who have signed up already.
+- `!list` @Role @Role - type this and I'll tell you who have signed up with specific roles (can be class or squad).
+- `!list` Class Class - type this and I'll tell you who have signed up with specific class.
+- `!list not attending` - type this and I'll tell you who have signed up with !no.
+
+
+</section>
+<section markdown="1">
+
 ### Officer Commands
 
 - `!war` - Use this to let me know when and where the next war is taking place. I'll ask you for the details!
@@ -27,18 +42,6 @@ Possible Channel Names:
 - `!max`- Sets a limit to current attendance, 0 resets it.
 - `!yes @membertag @membertag` - Sets attending to tagged members.
 - `!no @membertag @membertag` - Sets not attending to tagged members.
-
-</section>
-<section markdown="1">
-### Guild Member Commands
-
-- `!help` - provides information to what commands are available. Note some commands are only available for specific discord roles.
-- `!feedback message` - This will send the message to my masters. I also respond to this command in pm.
-- `!yes` and `!no` - use these to tell me if you're attending the next war or not, also you can leave a message if you are late, or why you cannot attend.
-- `!list` - type this and I'll tell you who have signed up already.
-- `!list` @Role @Role - type this and I'll tell you who have signed up with specific roles (can be class or squad).
-- `!list` Class Class - type this and I'll tell you who have signed up with specific class.
-- `!list not attending` - type this and I'll tell you who have signed up with !no.
 
 </section>
 </section>
