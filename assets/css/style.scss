@@ -30,10 +30,10 @@ section#main_content {
   text-align: left;
 }
 
-.scale {
+.scale,.zoom {
   transition: transform .2s;
 }
 
-.scale:hover {
+.scale:hover,.zoom:hover {
   transform: scale(2);
 }
