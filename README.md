@@ -10,7 +10,7 @@
 
 ### Bot Functionality
 - Gear Tracker [click to see more info](gear.html)
-- Attendance Tracker with evil `!remind` function. [click to see more info](attendance.html)
+- Attendance/Planner/NW Tracker with evil `!remind` function. [click to see more info](attendance.html)
 - Payout System.
 - SMH Payout `(Removed).`
 - Market Tracker ( Coming Soon ).[click to see more info](market.html)
