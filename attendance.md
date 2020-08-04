@@ -53,14 +53,14 @@ Possible Channel Names:
 
 ### Example
 
-![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png)
+<img src='https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png' />
 
 </section>
 <section markdown="1">
 
 ### Commands
 
-![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png)
+<img src='https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png' class='zoom'/>
 
 </section>
 </section>
