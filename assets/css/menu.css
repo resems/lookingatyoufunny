@@ -4,7 +4,7 @@
 .nav-menu li:hover > ul { left: 0; opacity: 1; z-index: 1000; }
 .nav-menu ul li:hover > ul { top: 0; left: 100%; }
 .nav-menu li { cursor: default; white-space: nowrap; }
-.nav-menu ul li { background:none; }
+ul.nav-menu li { background:none; }
 
 .nav-menu.nav-center {
     display: flex;
