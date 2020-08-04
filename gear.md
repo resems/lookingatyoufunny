@@ -67,7 +67,7 @@ Example of bot commands:
 
 ### Example
 
-<img src='https://media.discordapp.net/attachments/435789412974985217/436509845282095115/unknown.png' class='zoom'/>
+<img src='https://cdn.discordapp.com/attachments/223778593711456256/740148153382076426/unknown.png' class='zoom'/>
 
 </section>
 <section markdown="1">
