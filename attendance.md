@@ -43,13 +43,21 @@ Possible Channel Names:
 </section>
 </section>
 
+## Screenshots
+
 <section class='flex col'>
 <section markdown="1">
-## Example
+
+### Example
+
 ![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841554373541928/unknown.png)
+
 </section>
 <section markdown="1">
-## Commands
+
+### Commands
+
 ![Example](https://cdn.discordapp.com/attachments/223778593711456256/739841829100585131/unknown.png)
+
 </section>
 </section>
