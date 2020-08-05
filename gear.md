@@ -49,13 +49,12 @@ Example of bot commands:
 
 ### Officer Commands
 
-- `!remind` - This will send private messages reminding guild members to set their gear.
+- `!remind` - This will send private messages reminding members to set their gear.
 - `!remind level:xxx` - Reminds everybody who is below the level.
 - `!remind total:xxx` - Reminds everybody who is below the total gear score.
 - `!delete` - Deletes the gear information.
 - `!delete @mention` - Deletes the mentioned member gear.
 - `!delete ID` - Deletes the member gear by id (use if the member cannot see gear channels).
-- `!roles` - Creates Role(Guild Member). You have to assign manually the role to members. FYI I need permission to create the roles (Manage Roles Permission).
 
 </section>
 </section>

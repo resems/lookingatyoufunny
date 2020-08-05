@@ -14,7 +14,7 @@ Possible Channel Names:
 <section class='flex col left' >
 <section markdown="1">
 
-### Guild Member Commands
+### Member Commands
 
 - `!help` - provides information to what commands are available. Note some commands are only available for specific discord roles.
 - `!feedback message` - This will send the message to my masters. I also respond to this command in pm.
@@ -32,12 +32,11 @@ Possible Channel Names:
 
 - `!war` - Use this to let me know when and where the next war is taking place. I'll ask you for the details!
 - `!war t3 on wednesday` - Use this as a short command to let me know when the next war is taking place! No more details needed.
-- `!remind` - This will send private messages reminding guild members who haven't said !yes or !no to do so.
-- `!missing` - This command will inform how many guild members have not signed up for the war.
+- `!remind` - This will send private messages reminding members who haven't said !yes or !no to do so.
+- `!missing` - This command will inform how many members have not signed up for the war.
 - `!recalculate` - In case members have joined or left the channel, recalculates the current attendance.
 - `!reset` - This will reset the attendance (both !yes and !no) from all members. I will ask you to confirm this action!
 - `!messages` - Displays the message left by members.
-- `!roles` - Creates Role(Guild Member). You have to assign manually the role to members. FYI I need permission to create the roles (Manage Roles Permission).
 - `!limit` - Sets a limit to current attendance, 0 resets it.
 - `!max`- Sets a limit to current attendance, 0 resets it.
 - `!yes @membertag @membertag` - Sets attending to tagged members.
