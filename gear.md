@@ -55,6 +55,7 @@ Example of bot commands:
 - `!delete` - Deletes the gear information.
 - `!delete @mention` - Deletes the mentioned member gear.
 - `!delete ID` - Deletes the member gear by id (use if the member cannot see gear channels).
+- `{prefix}update @member @member ap:xxx aap:xxx dp:xxx accuracy:xxx link:link.png plan:bdoplanner class:xxx level:xxx trinaaxe:I/II/III/IV/V` - updated the gear of mentioned members
 
 </section>
 </section>
