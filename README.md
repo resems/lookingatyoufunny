@@ -3,8 +3,8 @@
 ### Setup
 
 - [Invite Me](https://discordapp.com/oauth2/authorize?client_id=216126789406162945&scope=bot&permissions=268446784) 
-- Create channel `#attendance`/`#gear`/`#payout`
-- Type !help in channel `#attendance`,`#gear`, `#payout`
+- Create channel `#attendance`/`#gear`/`#payout`/`#whale-market`
+- Type !help in channel `#attendance`,`#gear`, `#payout`,`#whale-market`
 - Enjoy my amazingness.
 
 ### Bot Functionality
@@ -12,7 +12,7 @@
 - Attendance/Planner/NW Tracker with evil `!remind` function. [click to see more info](attendance.html)
 - Payout/SMH System. [click to see more info](payout.html)
 - Trade `(Damn PA nerfed it).`.
-- Market Tracker ( Coming Soon ).[click to see more info](market.html)
+- Market Tracker.[click to see more info](market.html)
 
 ## Screenshots
 
