@@ -2,11 +2,17 @@
 
 Whale market for the bdo.
 
-Example of bot commands:
+<section class='flex col left' >
+<section markdown="1">
+## Example Commands
 - `!premium`
 - `!list`
 - `!list pen dande`
+</section>
+</section>
 
+<section class='flex col left' >
+<section markdown="1">
 ### Commands
 - `!help` - provides information to what commands are available.
 - `!region NA/EU` - sets the current region, default to EU.
@@ -18,6 +24,8 @@ Example of bot commands:
 - `!stock tet dande 3d` - displays filtered tet dande items most recently sold, sorted by how many are currently on mp.
 - `!premium` - displays last hour most sold premium items.
 - `!premium sorc` - displays filtered sorc items, most recently sold sorted by price.
+</section>
+</section>
 
 ## Screenshots
 
