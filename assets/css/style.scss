@@ -25,6 +25,15 @@ section#main_content {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  
+}
+
+@media (max-width: 768px) {
+  .flex {
+    .section {
+      flex: 1
+    }
+  }
 }
 
 .left {
