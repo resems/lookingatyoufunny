@@ -25,15 +25,12 @@ section#main_content {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  section {
-      flex: 1
-    }
 }
 
 @media (min-width: 768px) {
   .flex {
     section {
-      flex: 0
+      flex: 1
     }
   }
 }
