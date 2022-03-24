@@ -16,16 +16,21 @@ We respect the privacy of your information. In order for the bot to work properl
 * Channel ID ( of the message in bot channels, to identify to which event you attend, events are channel based ).
 * The additional message/content you provide for the bot ( example gear/attedance information, only message/content that start with a bot command or a bot command has been used )
 
-The bot does not collect any other information, and does not track other information
+The bot does not collect any other information, and does not track other information.
+
 #### Example of information not tracked:
 * activity
 * user last active
 * messages outside the bot channels
-* every message ( the messages are ignored that do not start with a command `!` )
+* messages that do not start with a bot command `!`
 * discord server members outside of bot channels
 * etc.
 
 Please read this policy to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our bot. By accessing or using this bot, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy).
+
+## Restricting the bot to only bot specific channels.
+Due to the nature of this bot, it only works in special channel names and reads only messages with command `!`.
+The user, or the admin can restrict the bot to access and see this channels, without any loss of functionality. 
 
 ## Disclosure of private information
 We may disclose aggregated information, and information that does not identify any individual.
