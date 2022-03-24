@@ -27,6 +27,14 @@ section#main_content {
   flex-wrap: wrap;
 }
 
+@media (min-width: 768px) {
+  .flex {
+    section {
+      flex: 1
+    }
+  }
+}
+
 .left {
   text-align: left;
 }
